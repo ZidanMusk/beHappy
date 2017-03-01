@@ -1,4 +1,4 @@
-# Real-time facial expressions detection with emojiis applied using CNNs
+# Real-time facial expressions detection using CNNs with emojis superimposed. 
 
 ## Authors:
 
