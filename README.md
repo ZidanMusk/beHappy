@@ -4,7 +4,7 @@
 
 Mahmoud Zidan	
 Abdallah Mohamed	
-Ahmed Osama	
+Ahmed Osama
 
 ## Main scripts: 
 
